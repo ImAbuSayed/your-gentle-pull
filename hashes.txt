@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Your Gentle Pull
+
+This log tracks the cryptographic history and versioning for the song **Your Gentle Pull** (your-gentle-pull).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-03T03:49:52.168284 | `v1` | `d4b85d99235c80c113c3acc3670685e4914d71053f3e198818b600f2470f20e7` | `7c1a61a9a2c20ac51f4734c4a7c278fe46ec2e279572ac9237d4699304fade71` | `2026-06-03_your-gentle-pull-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
